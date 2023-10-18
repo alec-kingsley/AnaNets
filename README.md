@@ -5,11 +5,11 @@ If the user enters a single line, it will simply work to find anagrams.
 
 Example of input aoseu/lbkrc/qlube/oeulc/bipbo:
 
-Grid:
-aoseu
-lbkrc
-qlube
-oeulc
-bipbo
+Grid:\
+``aoseu``\
+``lbkrc``\
+``qlube``\
+``oeulc``\
+``bipbo``
 
 You can draw the word "ball" with the 'b' in line 2, the 'a' in line 1, the 'l' in line 2, and the 'l' in line 3. The longest word in this net found by this program is "allures"
